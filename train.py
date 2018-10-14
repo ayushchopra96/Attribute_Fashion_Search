@@ -1,3 +1,4 @@
+## Phase 1 training code
 import tensorflow as tf
 import numpy as np
 from datapipeline import DataPipeline
